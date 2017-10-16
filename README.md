@@ -1,7 +1,7 @@
 # second-hand-books
 Second hand books.二手书集市。你的闲置，正是人家所需。
 
-如果你有限制的书籍，可以在这里售卖。步骤很简单:
+如果你有闲置的书籍，可以在[这里](https://github.com/waylau/second-hand-books/issues)售卖或者赠送。步骤很简单:
 
 ## 1. 打开一个 issue
 
