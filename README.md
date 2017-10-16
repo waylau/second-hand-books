@@ -5,7 +5,7 @@ Second hand books.二手书集市。你的闲置，正是人家所需。
 
 ## 1. 打开一个 issue
 
-[新建issue](https://github.com/waylau/second-hand-books/issues/new)
+点击[新建issue](https://github.com/waylau/second-hand-books/issues/new)。
 
 * issue 标题格式：书名，成色，价格
 
@@ -18,8 +18,12 @@ Second hand books.二手书集市。你的闲置，正是人家所需。
 * 书名：
 * 出版社：
 * 出版年月：
+* 原价：
+* 现价：
 * 成色：
 * 链接：
 * 备注：
+
+参考：<https://github.com/waylau/second-hand-books/issues/1>
 
 ## 3. 如果已经出售，请关闭 issue
