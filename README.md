@@ -1,5 +1,6 @@
-# second-hand-books
-Second hand books.二手书集市。你的闲置，正是人家所需。
+# Second hand books.（二手书集市——面向程序员的二手书市场）
+
+二手书集市——面向程序员的二手书市场。你的闲置，正是人家所需。让知识流动起来！
 
 如果你有闲置的书籍，可以在[这里](https://github.com/waylau/second-hand-books/issues)售卖或者赠送。步骤很简单:
 
